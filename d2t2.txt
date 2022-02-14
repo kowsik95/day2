@@ -1,0 +1,6 @@
+Summary of How does Browser actually work:
+1.HTML,CSS,JS works are explained in the video how they are interlinked to run a effective browser page.
+2.The way the parsing of codes happen in the HTML and CSS are widely explained with framework diagrams.
+3.Parsing Html with the DOM tree is defined with their specific properties that affects the browser page.
+4.Tokenization that plays vital role in HTML is explained how the start tag and end tage works .
+5.Parsed Html how it renders the page with the help of Render tree is also explained in this video.
